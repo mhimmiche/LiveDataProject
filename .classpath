@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/mhimmiche/Dropbox/Spring 2016/ITEC 220 - JAVA II/Projects/Project 4/Live Data Full JSON Example/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mhimmiche/Dropbox/Spring 2016/ITEC 220 - JAVA II/Projects/Project 4/Live Data Full JSON Example/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mhimmiche/Dropbox/Spring 2016/ITEC 220 - JAVA II/Projects/Project 4/Live Data Full JSON Example/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mhimmiche/Dropbox/Spring 2016/ITEC 220 - JAVA II/Projects/Project 4/Live Data Full JSON Example/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mhimmiche/Dropbox/Spring 2016/ITEC 220 - JAVA II/Projects/Project 4/Live Data Full JSON Example/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mhimmiche/Dropbox/Spring 2016/ITEC 220 - JAVA II/Projects/Project 4/Live Data Full JSON Example/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mhimmiche/Dropbox/Spring 2016/ITEC 220 - JAVA II/Projects/Project 4/Live Data Full JSON Example/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mhimmiche/Dropbox/Spring 2016/ITEC 220 - JAVA II/Projects/Project 4/Live Data Full JSON Example/json-lib-2.4-jdk15-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
